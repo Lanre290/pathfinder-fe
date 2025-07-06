@@ -11,8 +11,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "axios": "^1.10.0",
     "expo": "^53.0.17",
+    "expo-av": "~15.1.7",
+    "expo-file-system": "~18.1.11",
     "expo-status-bar": "~2.2.3",
+    "lottie-react-native": "7.2.2",
     "nativewind": "latest",
     "react": "19.0.0",
     "react-native": "0.79.5",
